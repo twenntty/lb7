@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES2016",
+    "lib": ["ES2016", "DOM"],
+    "strict": true,
+    "outDir": "./dist",
+    "rootDir": "./src"
+  }
+}
